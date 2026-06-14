@@ -10,7 +10,7 @@ body{
 }
 
 
-.dark-theme{
+body.dark-theme{
     background-color: #121212;
 
     .card{
@@ -18,7 +18,7 @@ body{
         color: #ffffff;
     }
 
-    h1{
+    h1, .bio{
         color:#ffffff;
     }
 }
